@@ -207,7 +207,7 @@ Current limitations and known bugs:
 
 - **Nasir Mirza**
   - GitHub: [@nasirmirza](https://github.com/nasirmirza)
-  - LinkedIn: [Nasir Mirza](https://linkedin.com/in/nasirmirza)
+  - LinkedIn: [Nasir Mirza](https://www.linkedin.com/in/nasir-mirzacs/)
   - Website: [nasirmirza.com](https://nasirmirza.com)
 
 ## 🙏 Acknowledgments
