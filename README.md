@@ -74,8 +74,8 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/nasirmirza/csbsju-dining.git
-cd csbsju-dining
+git clone https://github.com/nmirza001/dining-hall.git
+cd dining-hall
 ```
 
 2. Install dependencies
@@ -206,7 +206,7 @@ Current limitations and known bugs:
 ## 👤 Author
 
 - **Nasir Mirza**
-  - GitHub: [@nasirmirza](https://github.com/nasirmirza)
+  - GitHub: [@nmirza001(https://github.com/nmirza001)
   - LinkedIn: [Nasir Mirza](https://www.linkedin.com/in/nasir-mirzacs/)
   - Website: [nasirmirza.com](https://nasirmirza.com)
 
